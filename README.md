@@ -1,3 +1,12 @@
+#Career Quiz ChatBot
+A human-response simulation that gives career advice to students who are close to graduating with a computer science degree.<br>
+
+<p align="center">
+  <kbd>
+<img src="chatbot.gif" alt="DateSaver" style="border:5px solid grey" width="25%"></img>
+  </kbd>
+</p><br>
+
 The chatbot acts as a human response simulation to give career advice to students who are graduating with a computer science degree. The bot asks the student questions to identify their strengths in math, coding, and design to identify a suitable career choice. For those who don't match one of the five options, they are advised to meet with a career counselor.
 
 
