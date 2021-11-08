@@ -20,7 +20,7 @@ The chatbot acts as a human response simulation to give career advice to student
 7. File > Upload > Select Files
 8. Upload the unzipped file (udc.aiml)
 9. Click the yellow icon in the corner to open the bot
-10. Start the bot by typing "start" and follow the prompts
+10. Start the bot by typing <kbd>start</kbd> and follow the prompts
 
 ### Future Updates:
 <ul>
