@@ -3,7 +3,7 @@ A human-response simulation that gives career advice to students who are close t
 
 <p align="center">
   <kbd>
-<img src="chatbot.gif" alt="DateSaver" style="border:5px solid grey" width="25%"></img>
+<img src="chatbot.gif" alt="DateSaver" style="border:5px solid grey" width="50%"></img>
   </kbd>
 </p><br>
 
